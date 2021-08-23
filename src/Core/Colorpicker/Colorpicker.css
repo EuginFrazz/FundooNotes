@@ -1,0 +1,25 @@
+.colorwhbox{
+    width: 140px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    grid-gap: 6px;
+flex-wrap: wrap;
+position:relative;
+bottom: 148px;
+left: -10px;
+background-color:white;
+justify-content: center;
+border: 3px solid gainsboro;
+border-radius: 5px;
+padding: 3px;
+
+
+}
+.colorbox{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+
+}

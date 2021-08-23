@@ -1,0 +1,128 @@
+.takeinput-wrapper{
+       width: 100%;
+       /* min-height: 20vh; */
+       /* background-color: blueviolet; */
+       display: flex;
+       flex-direction: row;
+       justify-content: center;
+       align-items: center;
+       /* max-height: auto; */
+       height: auto;
+}
+.firstbox{
+    background-color: white;
+    width: 700px;
+    height: 2.3rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0 0.5rem;
+    cursor: pointer;
+    border: 5px solid gainsboro;
+    margin-top:10vh !important;
+
+
+}
+.firstinput{
+    margin: 0 0.5rem;
+    outline: none;
+    border: none;
+    width: 100%;
+    height: 1.8rem;
+    font-size: 1.2rem;
+
+}
+.check{
+margin-right: 20px;
+
+}
+.brush{
+    margin-right: 1px;
+
+}
+.pic{
+margin: 20px;
+}
+.secondbox{
+    background-color: white;
+    width: 700px;
+    height: 10.3rem;
+    /* top: 100px;
+    left: 500px; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0 0.5rem;
+    cursor: pointer;
+    border: 5px solid gainsboro;
+    flex-direction: column;
+    /* position: absolute; */
+    margin-top:10vh !important;
+    /* margin-bottom: 16vh !important; */
+
+}
+.title{
+    margin: 0.6rem;
+    outline: none;
+    border: none;
+    width: 98%;
+    height: 1.8rem;
+    font-size: 1.2rem;
+    margin-left: 1rem;
+
+}
+.note{
+    margin:  1.2rem;
+    outline: none;
+    border: none;
+    width: 100%;
+    height: 1.8rem;
+    font-size: 1.2rem;
+margin-left: 2rem;
+}
+.icons{
+    flex-direction: row;
+}
+.add{
+    margin-right:41.2rem;
+    flex-direction: row;
+    margin-top:0.8rem
+
+}
+.per{
+    margin-right:34.2rem;
+    margin-top: -1.8rem;
+
+}
+.col{
+    margin-right:26.2rem;
+    margin-top: -1.8rem;
+}
+.img{
+    margin-right:18.2rem;
+    margin-top: -1.8rem;
+}
+.arc{
+    margin-right:10.2rem;
+    margin-top: -1.8rem;
+}
+.mor{
+    margin-right:4.2rem;
+    margin-top: -1.8rem;
+}
+.und{
+    margin-right:-2.2rem;
+    margin-top: -1.8rem;
+}
+.red{
+    margin-right:-8.2rem;
+    margin-top: -1.8rem;
+}
+.close{
+    width: 4px;
+    height: 2px;
+    margin-top: -1.8rem;
+    margin-right:-36.2rem;
+    font-size: 20px;
+    font-style: solid;
+}

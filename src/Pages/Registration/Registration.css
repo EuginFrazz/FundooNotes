@@ -1,0 +1,81 @@
+.title2{
+     color: rgb(rgb(117, 32, 32), rgb(77, 146, 77), rgb(113, 113, 189));
+}
+.title1{
+    color:rgb(red, green, blue);
+}
+.F{
+    color: red;
+}
+.U{
+color: blue;
+}
+.N{
+    color: orangered;
+}
+.D{
+    color: tomato;
+    
+}
+.O{
+    color: brown;
+}
+.n{
+    color: coral;
+}
+.o{
+    color: rgb(160, 226, 164);
+    
+}
+.t{
+    color: rgb(52, 52, 236);
+}
+.e{
+    color: darkred;
+}
+.s{
+    color: rgb(223, 99, 161);
+}
+.regfullbody{position: relative;
+    border:5px solid gainsboro;
+    background-color: white ;
+    height: 700px;
+    width: 972px;
+    border-radius: 20px;
+    left: 370px;
+    top: 45px;
+}
+.regwholebody{
+    width: 100%;
+    height: 100vh;
+}
+.regdetails{
+    margin-left: 47px;
+    margin-top: 47px;
+}
+.reglast{
+    left: 20px;
+}
+.regcheck{
+    width: 20px;
+    height: 20px;
+}
+.regh{
+font-size: 20px;
+margin-left: 10px;
+}
+.regbut{
+    left: 350px;
+    height: 50px;
+    width: 100px;
+    top: -30px;
+}
+.reglin{
+    font-size: larger;
+    text-decoration: none;
+    color: blue;
+}
+.reglogee{
+    height: 40px;
+    width: 130px;
+}

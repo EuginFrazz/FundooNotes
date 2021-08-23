@@ -1,0 +1,146 @@
+{
+  "notes": [
+    {
+      "title": "doctor",
+      "description": "he treats the people",
+      "id": 1,
+      "isDeleted": false,
+      "isArchived": false
+    },
+    {
+      "title": "doctor",
+      "description": "he treats the people",
+      "isDeleted": true,
+      "isArchive": false,
+      "id": 2
+    },
+    {
+      "title": "doctor",
+      "description": "he treats the people",
+      "isDeleted": true,
+      "isArchive": false,
+      "id": 3
+    },
+    {
+      "title": "new note",
+      "description": "new ",
+      "isDeleted": true,
+      "isArchive": false,
+      "id": 4
+    },
+    {
+      "title": "new note",
+      "description": "new ",
+      "isDeleted": true,
+      "isArchive": false,
+      "id": 5
+    },
+    {
+      "title": "rerffe",
+      "description": "vrffe",
+      "isDeleted": false,
+      "isArchive": false,
+      "id": 6
+    },
+    {
+      "title": "check",
+      "description": "cdvdc",
+      "isDeleted": true,
+      "isArchive": false,
+      "id": 7
+    },
+    {
+      "title": "fixed1",
+      "description": "vefveg",
+      "isDeleted": false,
+      "isArchive": true,
+      "id": 9
+    },
+    {
+      "title": "lol",
+      "description": "lol",
+      "id": 11,
+      "isDeleted": false,
+      "isArchived": false
+    },
+    {
+      "title": "new one ",
+      "description": "brgvef",
+      "isDeleted": false,
+      "isArchive": false,
+      "id": 12
+    },
+    {
+      "title": "new 2",
+      "description": "vveve",
+      "isDeleted": false,
+      "isArchive": false,
+      "id": 13
+    },
+    {
+      "title": "erfee",
+      "description": "efewd",
+      "id": 15,
+      "isDeleted": false,
+      "isArchived": false
+    },
+    {
+      "title": "wow",
+      "description": "im legend",
+      "isDeleted": false,
+      "isArchive": false,
+      "id": 17
+    },
+    {
+      "title": "new",
+      "description": "new note",
+      "isDeleted": false,
+      "isArchive": false,
+      "id": 18
+    }
+  ],
+  "userDetails": [
+    {
+      "firstName": "frog",
+      "lastName": "king",
+      "email": "frog@gmail.com",
+      "password": "7894561230",
+      "id": 1
+    },
+    {
+      "firstName": "purushothaman",
+      "lastName": "S",
+      "email": "btgvbt@gmail.com",
+      "password": "123456789",
+      "id": 2
+    },
+    {
+      "firstName": "purushothaman",
+      "lastName": "S",
+      "email": "purushoth@gmail.com",
+      "password": "123456789",
+      "id": 3
+    },
+    {
+      "firstName": "Eugin",
+      "lastName": "Frazz",
+      "email": "eugin03@gmail.com",
+      "password": "7894561230",
+      "id": 4
+    },
+    {
+      "firstName": "dog",
+      "lastName": "cat",
+      "email": "cat@gmail.com",
+      "password": "catanddog",
+      "id": 5
+    },
+    {
+      "firstName": "dog",
+      "lastName": "cat",
+      "email": "cat@gmail.com",
+      "password": "catanddog",
+      "id": 6
+    }
+  ]
+}

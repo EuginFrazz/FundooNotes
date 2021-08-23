@@ -1,0 +1,145 @@
+body{
+    margin: 0;
+}
+.body{
+    width: 100%;
+    height: 100vh;
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+    white-space: wrap;
+    /* position: relative; */
+    box-sizing: border-box;
+
+    
+}
+.notes-wrapper{
+    width: 100%;
+}
+.customBackground{
+    background-color: red !important;
+}
+.w-88{
+    width: 88% !important;
+    position: absolute;
+    left: 12%;
+}
+
+.navbar{
+    max-width: 100% !important ;
+    min-height: 3rem;
+    display: flex;
+    align-items: center;
+    background-color: gainsboro;
+    padding: 0 0.5rem;
+   
+}
+.sidepanel{
+    width: 12% !important;
+    max-width: 12% !important ;
+    min-height: calc(100vh - 3rem) !important;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: gainsboro;
+    padding: 0 0.5rem;
+    justify-content: flex-start;
+    position: fixed;
+    /* top:3rem; */
+}
+.wh{
+    width: 100%;
+    background-color: gold;
+    border-radius: 30px;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+.icon-size{
+    font-size: 4.5rem;
+}
+.dfull{
+    background-color: white;
+    width: 300px;
+    height: 10.7rem;
+    top: 200px;
+    left: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0 0.5rem;
+    cursor: pointer;
+    border: 5px solid gainsboro;
+    flex-direction: column;
+
+}
+.dtitle{
+    margin: 0.6rem;
+    outline: none;
+    border: none;
+    width: 98%;
+    height: 1.8rem;
+    font-size: 1.2rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+
+}
+.dnote{
+    margin:  1.2rem;
+    outline: none;
+    border: none;
+    width: 100%;
+    height: 1.8rem;
+    font-size: 1.2rem;
+margin-left: 2rem;
+}
+.icons{
+    flex-direction: row;
+}
+.dadd{
+    margin-right:17.2rem;
+    flex-direction: row;
+    margin-top:1rem
+
+}
+.dper{
+    margin-right:12.2rem;
+    margin-top: -1.8rem;
+
+}
+.dcol{
+    margin-right:7.2rem;
+    margin-top: -1.6rem;
+}
+.dimg{
+    margin-right:2.2rem;
+    margin-top: -1.8rem;
+}
+.darc{
+    margin-right:-3.2rem;
+    margin-top: -1.8rem;
+}
+.dmor{
+    margin-right:-8.2rem;
+    margin-top: -1.8rem;
+}
+.notes-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    /* margin-top: 10vh; */
+    /* margin-left: 10vh; */
+    margin: 10vh  20vh ;
+    
+    /* margin-left: 280px; */
+    flex-wrap: wrap;
+    /* position: absolute; */
+    grid-gap: 25px;
+    margin-right: 0;
+}
